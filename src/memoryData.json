@@ -1,0 +1,48 @@
+{
+  "memories": [
+    {
+      "id": 1,
+      "lat": 37.7959,
+      "lng": -122.4217,
+      "caption": "First Date at Shanghai Kelly's 🌅",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 2,
+      "lat": 49.0510,
+      "lng": -113.9086,
+      "caption": "One of our fave spots during our first vacation together 💕",
+      "location": "Waterton Lakes National Park, Canada"
+    },
+    {
+      "id": 3,
+      "lat": 40.7497,
+      "lng": -111.8862,
+      "caption": "SLC rendezvous 🌅",
+      "location": "Salt Lake City, UT"
+    },
+    {
+      "id": 4,
+      "lat": 39.9464,
+      "lng": -119.9667,
+      "caption": "Tahoe jacuzzi night where we first met 🤣",
+      "location": "Lake Tahoe, CA"
+    },
+    {
+      "id": 5,
+      "lat": 40.7215,
+      "lng": -73.9857,
+      "caption": "Chris & Bryan's Wedding Weekend ✨",
+      "location": "New York, NY"
+    },
+    {
+      "id": 6,
+      "lat": 50.0446,
+      "lng": 19.9491,
+      "caption": "Krakow trip to see Eastern Europe",
+      "location": "Krakow, Poland"
+    }
+  ]
+}
+
+
